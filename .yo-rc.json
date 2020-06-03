@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "java.fbk.app",
+      "nativeLanguage": "de"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterdemo",
+    "packageName": "java.fbk.app",
+    "packageFolder": "java/fbk/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGI1ODcyNmE4Nzc4ZDBiYTM5YjdjNmIxYWEyY2RjYzc1YzBlZWQxZjg1OTA4YWU1ZDczMzdmMmQ3NDJjOWNlNTUxNzExYzAxM2MzYzIxMmE5YTMyNmRhODFmNzM2NTlhYzcwM2I3OGZlNWI4ZmQzNjA5NDQxM2NjMGVkMGY2MzE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1591200082078,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "de",
+    "languages": ["de", "en", "tr"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
